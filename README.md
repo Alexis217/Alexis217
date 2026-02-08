@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋! everyone my name is Alexis Albarenga</h3>
+<img src="./assets/Banner.gif" width="%100">
 
 ###
 
