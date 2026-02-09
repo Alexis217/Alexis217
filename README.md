@@ -20,12 +20,15 @@ Currently, I'm diving deep into the AI ecosystem, building agents and automated 
 ### 🛠️ Tech Stack & Tools
 
 **Languages & Core**
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,py,php,html,css)](https://skillicons.dev)
 
 **Backend & Databases**
+
 [![Backend](https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,postgres,mysql,mongodb,prisma,docker)](https://skillicons.dev)
 
 **Frontend & UI**
+
 [![Frontend](https://skillicons.dev/icons?i=react,tailwind,framer)](https://skillicons.dev)
 
 **Tools & Automation**
