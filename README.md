@@ -54,6 +54,9 @@ Currently, I'm diving deep into the AI ecosystem, building agents and automated 
 - 💼 **LinkedIn:** [Alexis Albarenga](https://linkedin.com/in/alexis-albarenga-3b0324337)
 
 ---
+<br clear="both">
+<img src="https://raw.githubusercontent.com/Alexis217/Alexis217/output/snake.svg" alt="Snake animation" />
+
 <p align="center">
   "Turning complex problems into elegant code."
 </p>
