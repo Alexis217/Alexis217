@@ -45,13 +45,13 @@ Currently, I'm diving deep into the AI ecosystem, building agents and automated 
 | Tool | Proficiency |
 | :--- | :--- |
 | **Spanish** | Native 🇦🇷 |
-| **English** | Basic (A2) 🇺🇸 |
+| **English** | Intermediate (B1) 🇺🇸 |
 
 ---
 
 ### 📨 Let's Connect!
 - 🌐 **Portfolio:** [alexisalbarenga.pages.dev](https://alexisalbarenga.pages.dev)
-- 💼 **LinkedIn:** [Alexis Albarenga](https://linkedin.com/in/alexis-albarenga-3b0324337)
+- 💼 **LinkedIn:** [Alexis Albarenga](https://www.linkedin.com/in/alexisalbarenga/)
 
 ---
 <br clear="both">
