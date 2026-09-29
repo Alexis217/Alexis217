@@ -68,25 +68,23 @@ Current Technologies
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=ts,js,py,php,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,php,html,css)](https://skillicons.dev)
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,tailwind,vite,framer)](https://skillicons.dev)
 
-### Backend & Databases
+### ⚙️ Backend & Databases
+[![Backend](https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,postgres,mysql,mongodb,supabase,prisma)](https://skillicons.dev)
 
-[![Backend](https://skillicons.dev/icons?i=nestjs,fastapi,nodejs,postgres,mysql,mongodb,prisma,docker)](https://skillicons.dev)
+### ☁️ DevOps & Tools
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,linux,git,github,cloudflare)](https://skillicons.dev)
 
-### Frontend
-
-[![Frontend](https://skillicons.dev/icons?i=react,tailwind,framer)](https://skillicons.dev)
-
-### AI & Automation
-
+### 🤖 AI & Automation
 <p align="left">
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white"/>
 </p>
 
 ---
