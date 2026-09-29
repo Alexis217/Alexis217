@@ -136,7 +136,7 @@ Frontend                 ███████████████░░░�
 | Language | Level |
 |-----------|-------|
 | 🇦🇷 Spanish | Native |
-| 🇺🇸 English | Intermediate (B1) |
+| 🇺🇸 English | B2 |
 
 ---
 
